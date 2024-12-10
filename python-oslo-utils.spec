@@ -1,5 +1,5 @@
 Name: python-oslo-utils
-Version: 7.3.0
+Version: 8.0.0
 Release: 1
 Source0: https://files.pythonhosted.org/packages/source/o/oslo.utils/oslo.utils-%{version}.tar.gz
 Summary: Python utility library
