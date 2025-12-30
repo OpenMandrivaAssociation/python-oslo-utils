@@ -8,6 +8,7 @@ License: Apache
 Group: System/Libraries
 BuildArch: noarch
 BuildSystem: python
+BuildRequires: python%{pyver}dist(pbr)
 
 %description
 The oslo.utils library provides support for common utility type functions,
