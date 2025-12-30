@@ -1,6 +1,6 @@
 Name: python-oslo-utils
 Version: 8.0.0
-Release: 2
+Release: 3
 Source0: https://files.pythonhosted.org/packages/source/o/oslo.utils/oslo.utils-%{version}.tar.gz
 Summary: Python utility library
 URL: https://pypi.org/project/oslo.i18n/
