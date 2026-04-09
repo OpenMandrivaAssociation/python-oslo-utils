@@ -2,7 +2,7 @@
 
 Name:		python-oslo-utils
 Summary:	Python utility library
-Version:	10.0.0
+Version:	10.0.1
 Release:	1
 License:	Apache-2.0
 Group:		System/Libraries
