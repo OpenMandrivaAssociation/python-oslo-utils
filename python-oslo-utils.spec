@@ -2,7 +2,7 @@
 
 Name:		python-oslo-utils
 Summary:	Python utility library
-Version:	10.0.1
+Version:	10.1.0
 Release:	1
 License:	Apache-2.0
 Group:		System/Libraries
@@ -15,6 +15,7 @@ BuildRequires:	python%{pyver}dist(pbr)
 BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:	python%{pyver}dist(setuptools)
 BuildRequires:	python%{pyver}dist(wheel)
+Recommends:	python%{pyver}dist(cryptography)
 
 %description
 The oslo.utils library provides support for common utility type functions,
